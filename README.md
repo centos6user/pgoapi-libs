@@ -1,4 +1,4 @@
-[![PokéLibs]](https://github.com/pokelibs)
+[PokéLibs](https://github.com/pokelibs)
 
 # pgoapi-libs
 [![license](https://img.shields.io/github/license/pokelibs/pgoapi-libs.svg?maxAge=2592000?style=flat-square)](https://github.com/pokelibs/pgoapi-libs/blob/master/LICENSE.md)
@@ -49,7 +49,7 @@ More detailed instructions on how to compile the given libraries will be updated
 * Checkout https://github.com/laverdet/pcrypt-c (Thanks a lot to @marcel)
 * Use `make all`
 * Checkout https://gist.github.com/Noctem/018c107d6a6297c24e36a00d4da046c9 (Thanks a lot to @Waryas, @marcel, @HatchingEgg, @Apoc)
-* Make the file according to the following flags:
+* Make the file according to the following flags: (Thanks a lot to @noctem)
 ```
 Linux:
 	cc -fPIC -O3 -shared niahash.c -o libniantichash-linux-x86-64.so
